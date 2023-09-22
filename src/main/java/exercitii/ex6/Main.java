@@ -19,9 +19,12 @@ public class Main {
         System.out.println(isSuperset(set1,set2));
 
     }
-    public static Set<Boolean>  isSuperset(Set<String> set1, Set<String > set2){
-        return Collections.singleton(set1.containsAll(set2) && !set1.equals(set2));
+    public static boolean isSuperset(Set<String> set1, Set<String > set2) {
+        if (set1.containsAll(set2) && !set1.equals(set2)) {
+            return true;
+        }
+        return false;
 
+    }
 
-}
 }
