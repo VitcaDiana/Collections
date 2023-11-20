@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43415ac2-8d42-4ca1-ace1-4952ce8f3279" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritms/ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritms/ex5/GroupDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritms/ex6/MaxDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritms/ex9/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritms/ex10/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algoritms/ex2/ReplaceElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritms/ex2/ReplaceElementOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +84,7 @@
       <workItem from="1695740507682" duration="1127000" />
       <workItem from="1695913264424" duration="684000" />
       <workItem from="1696428853413" duration="624000" />
-      <workItem from="1700503864797" duration="1363000" />
+      <workItem from="1700503864797" duration="2323000" />
     </task>
     <task id="LOCAL-00001" summary="ex 1,2,3,4,5,6,7,8,9,10,15,17,18">
       <option name="closed" value="true" />
@@ -122,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695649600779</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="algoritms 9">
+      <option name="closed" value="true" />
+      <created>1700505559121</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700505559122</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +137,8 @@
     <MESSAGE value="fix ex 6 and 11,12,13" />
     <MESSAGE value="algoritms ex 1, ex2" />
     <MESSAGE value="algoritms fix ex 2,3" />
-    <option name="LAST_COMMIT_MESSAGE" value="algoritms fix ex 2,3" />
+    <MESSAGE value="algoritms 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="algoritms 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
