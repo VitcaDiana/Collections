@@ -33,7 +33,7 @@ public class ReplaceElementOfArray {
 //
 //    // calculam produsul tuturor elementelor din array
 //    int totalProduct = 1;
-//        for (int num : numbers) {
+//        for (Integer number : numbers) {
 //        totalProduct *= num;
 //    }
 //
